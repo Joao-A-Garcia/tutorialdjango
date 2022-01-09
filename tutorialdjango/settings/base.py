@@ -16,6 +16,7 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve(strict=True).parent.parent.parent
 
 
+
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/
 
@@ -28,6 +29,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
    "127.0.0.1",
    "https://betobyte.herokuapp.com",
+   "https://betoblog.herokuapp.com/"
 ]
 
 
