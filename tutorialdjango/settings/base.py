@@ -28,8 +28,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
    "127.0.0.1",
-   "https://betobyte.herokuapp.com",
-   "https://betoblog.herokuapp.com/"
+   "betobyte.herokuapp.com",
+   "betoblog.herokuapp.com/"
 ]
 
 
