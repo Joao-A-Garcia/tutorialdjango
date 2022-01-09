@@ -27,9 +27,7 @@ SECRET_KEY = 'django-insecure-c3i=zo-s8hneav4a460*$78t1inv!h=4o%!41n(eh3d6(a)83l
 DEBUG = True
 
 ALLOWED_HOSTS = [
-   "127.0.0.1",
-   "betobyte.herokuapp.com",
-   "betoblog.herokuapp.com/"
+  
 ]
 
 
